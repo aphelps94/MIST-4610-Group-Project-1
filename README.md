@@ -3,3 +3,13 @@
 # Group Name
 
 # Group Members
+
+# Scenario
+
+# Data Model
+
+# Data Dictionary
+
+# Queries
+
+# Database Information
