@@ -4,7 +4,7 @@
 39217 Group 5
 
 # Group Members
-1. Aaron Phelps @aphelps94
+1. Aaron Phelps [@aphelps94](https://github.com/aphelps94)
 2.
 3.
 4.
